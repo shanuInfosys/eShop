@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "a2c1b43a5043cc21a1c5bafb8322a95d2234b53d346373612eef411ef89b6f2e"
+build_start_time: [1672423285, 881731033]
+build_end_time: [1672423292, 530915021]
+inputs:
+  "/Users/shanumishra/Documents/Dart Demo Programs/Flutter Projects/e_gift_shoppe/macos/Flutter/GeneratedPluginRegistrant.swift": [1672423249, 837791919]
+  "/Users/shanumishra/Documents/Dart Demo Programs/Flutter Projects/e_gift_shoppe/macos/Runner/AppDelegate.swift": [1670914016, 452625751]
+  "/Users/shanumishra/Documents/Dart Demo Programs/Flutter Projects/e_gift_shoppe/macos/Runner/MainFlutterWindow.swift": [1670914016, 454520225]
